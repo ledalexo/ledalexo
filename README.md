@@ -1,5 +1,7 @@
 Hello! I'm Alexis González 👋
 
+I've completed a web full stack programming course and currently starting my path on the JAVA language world.
+
 <!--
 **ledalexo/ledalexo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
