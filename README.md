@@ -2,7 +2,7 @@ Hello! I'm Alexis González 👋
 
 I've completed a full stack web programming course and currently starting my path on the JAVA language world.
 
-- I'm looking forward to apply for it jobs
+I'm looking forward to apply for IT jobs.
 
 <!--
 **ledalexo/ledalexo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
