@@ -1,6 +1,8 @@
 Hello! I'm Alexis González 👋
 
-I've completed a web full stack programming course and currently starting my path on the JAVA language world.
+I've completed a full stack web programming course and currently starting my path on the JAVA language world.
+
+- I'm looking forward to apply for it jobs
 
 <!--
 **ledalexo/ledalexo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 📫 How to reach me: alexisgonzalezcarba@gmail.com
 -->
